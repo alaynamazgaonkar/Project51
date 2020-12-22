@@ -1,0 +1,81 @@
+h1{
+    background-color: #ffe4c4;
+    color: 
+}
+body{
+    background-color:#e6e6fa;
+}
+.one{
+margin-top: 50px;
+color:#483d8b ;
+background-color:#ffe4c4 ; 
+
+}
+
+.two{
+    display:flex;
+    justify-content: wrap;
+    
+    background-color: #ffe4c4  ;
+}
+
+.one{
+    display:flex;
+    justify-content: center;
+}
+
+.five{
+    display:flex;
+    justify-content: wrap;
+}
+
+.three{
+ border:solid  ;
+ margin:10px;
+ background-color:#e6e6fa;
+}
+
+.six{
+    border:solid;
+   padding-right:10px;
+   background-color: #ffe4c4 ;
+}
+
+.seven{
+    border:solid;
+    background-color:#ffe4c4 ;
+}
+.eight{
+    border:solid;
+    padding-right:10px ;
+    background-color:#ffe4c4;
+}
+.nine{
+    border:solid;
+    background-color: #ffe4c4;
+}
+
+.tone{
+    border:solid;
+    padding-right: 693px;
+    margin:10px;
+    background-color:#e6e6fa;
+}
+
+.ttwo{
+    border:solid;
+    padding-right: 520px;
+    margin:10px;
+    background-color:#e6e6fa;
+}
+
+.ten{
+    border:solid;
+    padding-right:10px;
+    background-color:#ffe4c4;
+}
+.eleven{
+    border:solid;
+    background-color: #ffe4c4 ;
+}
+
